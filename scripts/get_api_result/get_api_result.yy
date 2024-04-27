@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"get_api_result",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_api_result",
+  "parent":{
+    "name":"ApiUtils",
+    "path":"folders/Scripts/Pokemon/ApiUtils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

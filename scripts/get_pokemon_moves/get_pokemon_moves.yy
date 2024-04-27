@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"get_pokemon_moves",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_pokemon_moves",
+  "parent":{
+    "name":"ApiUtils",
+    "path":"folders/Scripts/Pokemon/ApiUtils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

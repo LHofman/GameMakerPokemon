@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"create_move_objects",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"create_move_objects",
+  "parent":{
+    "name":"Pokemon",
+    "path":"folders/Scripts/Pokemon.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
